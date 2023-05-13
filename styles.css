@@ -187,7 +187,7 @@ nav {
   text-transform: capitalize;
   letter-spacing: var(--spacing);
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1rem; 
   transition: var(--transition);
 }
 .links a:hover {
@@ -199,9 +199,9 @@ nav {
   display: none;
 }
 .links {
-  /* height: 0;
+  height: 0;
   overflow: hidden;
-  transition: var(--transition); */
+  transition: var(--transition);
 }
 .show-links {
   height: 10rem;
